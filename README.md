@@ -4,7 +4,7 @@
 - 联系方式: 电话:13689526320 | 邮箱: tappan.billz@gmail.com 
 - 地址: 深圳宝安
 - GitHub：https://github.com/Nemausa
-- [LVGL项目展示](lvgl_project_introduction.md)
+- [LVGL项目展示](https://github.com/Nemausa/resume/blob/master/lvgl_project_introduction.md)
 
 ### 求职意向
 --------------------------
