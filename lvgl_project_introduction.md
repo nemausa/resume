@@ -3,18 +3,14 @@
 ##### 街道模式和导航
 | ![Image 1](asserts/lvgl/1/街道模式_1万2千转_白天.png) | ![Image 2](asserts/lvgl/1/街道模式_1万2千转_夜间.png) | ![Image 3](asserts/lvgl/1/投屏_1万转_导航.png)|
 |---|---|---|
+ 
+##### 白天 竞速模式 休闲模式 简约模式 
+| ![Image 1](asserts/lvgl/1/竞速模式_1万2转_白天.png) | ![Image 2](asserts/lvgl/1/休闲模式_1万2千转_白天.png)| ![Image 3](asserts/lvgl/1/简约模式_1万2千转_白天.png) |
+|---|---|---|
+##### 黑夜 竞速模式 休闲模式 简约模式 
+| ![Image 1](asserts/lvgl/1/竞速模式_1万2转_夜间.png) | ![Image 2](asserts/lvgl/1/休闲模式_1万2千转_夜间.png) | ![Image 3](asserts/lvgl/1/简约模式_1万2千转_夜间.png) |
+|---|---|---|
 
-##### 竞速模式
-| ![Image 1](asserts/lvgl/1/竞速模式_1万2转_白天.png) | ![Image 2](asserts/lvgl/1/竞速模式_1万2转_夜间.png) |
-|---|---|
-
-##### 休闲模式
-| ![Image 1](asserts/lvgl/1/休闲模式_1万2千转_白天.png) | ![Image 2](asserts/lvgl/1/休闲模式_1万2千转_夜间.png) |
-|---|---|
-
-##### 简约模式
-| ![Image 1](asserts/lvgl/1/简约模式_1万2千转_白天.png) | ![Image 2](asserts/lvgl/1/简约模式_1万2千转_夜间.png) 
-|---|---|
 
 
 
