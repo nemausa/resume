@@ -29,3 +29,15 @@
 ##### SPORT模式
 | ![Image 1](asserts/lvgl/3/SPORT白天菜单.png) | ![Image 2](asserts/lvgl/3/SPORT黑夜菜单.png) | ![Image 3](asserts/lvgl/3/SPORT导航.png)|
 |---|---|---|
+
+
+
+## 项目4
+
+###### 默认主题
+| ![Image 1](asserts/qt/1/default-d.jpg) | ![Image 2](asserts/qt/1/default-n.jpg)|
+|---|---|
+
+###### 简约主题
+| ![Image 1](asserts/qt/1/simple-d.jpg) | ![Image 2](asserts/qt/1/simple-n.jpg)|
+|---|---|
